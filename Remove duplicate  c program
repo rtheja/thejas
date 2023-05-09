@@ -1,0 +1,11 @@
+int x = 10;
+int y = 20;
+int x = 30; // duplicate variable declaration
+printf("x = %d, y = %d", x, y);
+
+
+
+int x = 10;
+int y = 20;
+x = 30; // assign a new value to x
+printf("x = %d, y = %d", x, y);
